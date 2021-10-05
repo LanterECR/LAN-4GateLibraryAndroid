@@ -2,7 +2,7 @@
 ===========================================
 
 [![badge](https://img.shields.io/badge/document-javadoc-blue)](https://LanterECR.github.io/LAN-4GateLibraryAndroid/javadoc/index.html)
-[![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg?style=flat)](https://github.com/LanterECR/LAN-4GateLibraryAndroid111111/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg?style=flat)](https://github.com/LanterECR/LAN-4GateLibraryAndroid/releases/tag/v1.0.0)
 
 ## !!!ВНИМАНИЕ: Текущая версия библиотеки несовместима с версией 0.9.4 и ниже!!!
 ### Для миграции прочтите [файл](Migration.md)
