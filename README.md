@@ -5,6 +5,7 @@
 [![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg?style=flat)](https://github.com/LanterECR/LAN-4GateLibraryAndroid/releases/tag/v1.0.0)
 
 ## !!!ВНИМАНИЕ: Текущая версия библиотеки несовместима с версией 0.9.4 и ниже!!!
+## Библиотека обновляться не будет
 ### Для миграции прочтите [файл](Migration.md)
 
 
